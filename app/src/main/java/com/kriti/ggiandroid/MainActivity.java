@@ -12,6 +12,7 @@ import android.widget.TextView;
 /*
 1. Register the components by their id
 2. Action to be performed by the button
+Showing how to save changes from github to your local repository
  */
 
 public class MainActivity extends AppCompatActivity {
