@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 /*
 1. Register the components by their id
-2. Action perform
+2. Action to be performed by the button
  */
 
 public class MainActivity extends AppCompatActivity {
