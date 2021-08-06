@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_calculator.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_guessing_game.xml" value="0.22826086956521738" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.23143115942028986" />
+        <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.24230072463768115" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.2269021739130435" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2223731884057971" />
       </map>
