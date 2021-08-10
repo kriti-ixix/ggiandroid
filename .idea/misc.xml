@@ -10,9 +10,11 @@
         <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.24230072463768115" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.2269021739130435" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2223731884057971" />
+        <entry key="app/src/main/res/layout/activity_music_list.xml" value="0.24320652173913043" />
         <entry key="app/src/main/res/layout/activity_my_preferences.xml" value="0.24592391304347827" />
         <entry key="app/src/main/res/layout/activity_students_list.xml" value="0.24139492753623187" />
         <entry key="app/src/main/res/layout/activity_subjects_list.xml" value="0.24864130434782608" />
+        <entry key="app/src/main/res/layout/music_layout.xml" value="0.24320652173913043" />
       </map>
     </option>
   </component>

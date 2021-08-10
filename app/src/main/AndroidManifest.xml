@@ -10,10 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GGIAndroid">
         <activity
-            android:name=".CheckPreferences"
-            android:exported="true" />
-        <activity
-            android:name=".MyPreferences"
+            android:name=".MusicList"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,12 +19,18 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".CheckPreferences"
+            android:exported="true" />
+        <activity
+            android:name=".MyPreferences"
+            android:exported="true">
+        </activity>
+        <activity
             android:name=".SubjectsList"
             android:exported="true" />
         <activity
             android:name=".StudentsList"
-            android:exported="true">
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".HomeScreen"
             android:exported="true" />
