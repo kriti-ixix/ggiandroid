@@ -1,8 +1,12 @@
 package com.kriti.ggiandroid;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
@@ -27,6 +31,33 @@ public class MusicList extends AppCompatActivity {
 
         MyAdapter adapter = new MyAdapter();
         listView.setAdapter(adapter);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.my_menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        int id = item.getItemId();
+
+        if (id == R.id.menuLogin)
+        {
+
+        }
+        else if (id == R.id.menuPreferences)
+        {
+
+        }
+        else if (id == R.id.menuGuessing)
+        {
+            Intent in = new Intent(this, GuessingGame.class);
+            startActivity(in);
+        }
+
+        return true;
     }
 
     class MyAdapter extends BaseAdapter
