@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/edit_text_background.xml" value="0.3260416666666667" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.321025641025641" />
         <entry key="app/src/main/res/layout/activity_calculator.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_check_preferences.xml" value="0.24592391304347827" />
         <entry key="app/src/main/res/layout/activity_guessing_game.xml" value="0.22826086956521738" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.23143115942028986" />
+        <entry key="app/src/main/res/layout/activity_home_menu.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.24230072463768115" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.2269021739130435" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2223731884057971" />
@@ -15,7 +17,11 @@
         <entry key="app/src/main/res/layout/activity_my_preferences.xml" value="0.24592391304347827" />
         <entry key="app/src/main/res/layout/activity_students_list.xml" value="0.24139492753623187" />
         <entry key="app/src/main/res/layout/activity_subjects_list.xml" value="0.24864130434782608" />
+        <entry key="app/src/main/res/layout/fragment_friends.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.2368659420289855" />
         <entry key="app/src/main/res/layout/music_layout.xml" value="0.24320652173913043" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/menu/my_menu.xml" value="0.3098958333333333" />
       </map>
     </option>
