@@ -1,0 +1,7 @@
+Working with Maps:
+1. Right click on the package > New > Google > Google Maps Activity
+2. Go to the link mentioned in the google_maps_api.xml
+3. Create a project, agree to the terms and click on Next
+4. Create API Key
+5. Copy the key generated and paste it in your xml file
+6. Now code the activity according to your requirements
